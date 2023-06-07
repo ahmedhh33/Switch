@@ -9,10 +9,9 @@ namespace swich
         {
             //vowel();
             //months();
-            grads();
-            days();
-
-
+            //grads();
+            //days();
+           
 
         }
 
@@ -88,9 +87,28 @@ namespace swich
             }
 
         }
+        //public static int Fibonacci(int n)
+        //{
+        //    Console.WriteLine("Enter the nth Fibonacci number : ");
+        //    int result = int.Parse(Console.ReadLine());
+        //    if (n <= 1)
+        //    {
+        //        return n;
+        //    }
+        //    else
+        //    {
+        //        return Fibonacci(n - 1) + Fibonacci(n - 2);
+        //    }
+        //}
+        ////static void nthFibonacci()
+        ////{
+        ////    int F0, F1;
+        ////    F0 = F1 = 1;
+        ////    F
+        ////}
         static void grads()
         {
-            Console.WriteLine("Enter the Grad letter i cabital: ");
+            Console.WriteLine("Enter the Grad letter in cabital: ");
             char grade = char.Parse(Console.ReadLine());
 
             switch (grade)
