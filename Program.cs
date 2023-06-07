@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 
 namespace swich
 {
@@ -7,13 +8,14 @@ namespace swich
         static void Main(string[] args)
         {
             //vowel();
-            months();
-                
-            
+            //months();
+            grads();
+
+
 
         }
 
-        static void vowel ()
+        static void vowel()
         {
             Console.WriteLine("Enter the Character : ");
             char ch = char.Parse(Console.ReadLine());
@@ -80,9 +82,35 @@ namespace swich
                 case 12:
                     Console.WriteLine("December");
                     break;
+                    //default : Console.WriteLine("Enter the month number : ");
+                    //break;
             }
 
         }
-        
+        static void grads()
+        {
+            Console.WriteLine("Enter the grad character in Capital letter : ");
+            char grade = char.Parse(Console.ReadLine());
+
+            switch (grade)
+            {
+                case 'A':
+                    Console.WriteLine("Excellent");
+                    break;
+                case 'B':
+                    Console.WriteLine("Very good");
+                    break;
+                case 'C':
+                    Console.WriteLine("Good");
+                    break;
+                case 'D':
+                    Console.WriteLine("Accepted");
+                    break;
+                case 'F':
+                    Console.WriteLine("Fail");
+                    break;
+            }
+
+        }
     }
 }
