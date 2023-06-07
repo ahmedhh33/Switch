@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\bin\Debug\net6.0\swich.exe
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\bin\Debug\net6.0\swich.deps.json
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\bin\Debug\net6.0\swich.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\bin\Debug\net6.0\swich.dll
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\bin\Debug\net6.0\swich.pdb
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.dll
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\refint\swich.dll
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.pdb
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\swich.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\swich\swich\obj\Debug\net6.0\ref\swich.dll
