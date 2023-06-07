@@ -10,6 +10,7 @@ namespace swich
             //vowel();
             //months();
             grads();
+            days();
 
 
 
@@ -89,7 +90,7 @@ namespace swich
         }
         static void grads()
         {
-            Console.WriteLine("Enter the grad character in Capital letter : ");
+            Console.WriteLine("Enter the Grad letter i cabital: ");
             char grade = char.Parse(Console.ReadLine());
 
             switch (grade)
@@ -108,6 +109,39 @@ namespace swich
                     break;
                 case 'F':
                     Console.WriteLine("Fail");
+                    break;
+            }
+
+        }
+
+
+        static void days()
+        {
+            Console.WriteLine("Enter the day number : ");
+            int day = int.Parse(Console.ReadLine());
+
+            switch (day)
+            {
+                case 1:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 2:
+                    Console.WriteLine("Sundy");
+                    break;
+                case 3:
+                    Console.WriteLine("Monday");
+                    break;
+                case 4:
+                    Console.WriteLine("Tusday");
+                    break;
+                case 5:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 6:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 7:
+                    Console.WriteLine("Friday");
                     break;
             }
 
